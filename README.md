@@ -22,7 +22,7 @@ $ npm run start
 ```
 
 # Dokumentasi API
-*untuk environment di postman dapat diunduh di [sini](https://documenter.getpostman.com/view/4331871/T1Dnidig?version=latest).
+*untuk environment di postman dapat diunduh di [sini](https://raw.githubusercontent.com/prasetiyo28/paket-id/master/Localhost.postman_environment.json).
 
 > url : 
 https://documenter.getpostman.com/view/4331871/T1Dnidig?version=latest
